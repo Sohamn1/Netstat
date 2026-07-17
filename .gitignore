@@ -1,0 +1,12 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+build/
+.output/
+.vercel/
+*.pcap
+temp_capture.pcap
+strip_comments.py
